@@ -1,0 +1,22 @@
+{
+  "name": "myapi",
+  "version": "1.0.0",
+  "description": "Test API for Project Speedforce.",
+  "main": "index.js",
+  "scripts": {
+    "test": "sf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "testapi"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "George Garcia Tamate",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.0",
+    "express": "^4.14.1"
+  }
+}
